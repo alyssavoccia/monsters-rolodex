@@ -2,9 +2,10 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  color: #0CCAC4;
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
